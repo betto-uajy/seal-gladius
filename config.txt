@@ -1,0 +1,3 @@
+,(20),(GXG),(GXG2),
+itemmall-dataa,7,1,itemmall-bayarr
+itemmall-dataa,7,2,itemmall-bayarr
